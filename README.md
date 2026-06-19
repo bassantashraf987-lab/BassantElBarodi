@@ -54,8 +54,8 @@ I'm a data analyst who genuinely enjoys digging into datasets, cleaning and resh
 
 ### 📫 Reach out to me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://www.linkedin.com/in/bassant-ashraf-9895b0328?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bassant.ashraf987@gmail.com)
 
 ---
 
